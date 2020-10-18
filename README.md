@@ -1,2 +1,5 @@
 # Sentiment-Analysis-NLP-
 Using Machine Learning in Sentiment Analysis (NLP)
+Sentiment analysis is a machine learning tool that analyzes texts for polarity, from positive to negative. By training machine learning tools with examples of emotions in text, machines automatically learn how to detect feelings without human intervention.
+Natural language processing (NLP) is an area of ​​computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. It is the branch of machine learning that deals with the analysis of any text and the treatment of predictive analysis.
+ As we know, Twitter is a popular social networking site where users post and interact with messages known as “tweets”. This serves as a means for individuals to express their thoughts or feelings on different subjects. Several different parties, such as consumers and marketers, have conducted sentiment analysis on such tweets to gather product insights or to conduct market analysis.
